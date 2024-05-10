@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Untuk Lebih Lengkap Silahkan Akses Paper Saya di <a href="">Google Scholar</a>
+Untuk Lebih Lengkap Silahkan Akses Paper Saya di <a href="https://scholar.google.com/citations?user=G0fhmWcAAAAJ&hl=id">Google Scholar</a>
 
 <p>Study and Analysis of Network Topology Performance Using Wireless Distribution System Technology - Jitecs UB</p>
 <p>Sistem Pendukung Keputusan Pemilihan Personil Untuk Pengamanan Infrastruktur IT TNI Angkatan Laut Menggunakan Metode Vikor</p>

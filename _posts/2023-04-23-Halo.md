@@ -13,7 +13,7 @@ image:
     width: 1000 
     height: 400
     alt: halo
-pin: true
+pin: false
 excerpt_separator: <!--more-->
 published: true
 ---

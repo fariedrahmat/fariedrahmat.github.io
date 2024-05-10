@@ -40,3 +40,6 @@ Kali ini kita akan belajar bagaimana mengelola jaringan menggunakan mikrotik Rou
 Untuk Panduan lebih lengkap silahkan Unduh Pada Link Ini : <a href="https://www.academia.edu/27221631/Praktikum_Manajemen_Jaringan_Kantor_Sederhana_Menggunakan_Mikrotik?source=swp_share" target="_blank" >Link Download</a>
 
 Selamat Mencoba ☺
+
+Terimakasih
+Mohammad Faried Rahmat., S.ST., M.Tr.T
