@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-its me
-
 <img src="https://avatars.githubusercontent.com/u/9167070?v=4" alt="" />
+
+Halo, 
+Saya merupakan Dosen Teknik Informatika di Universitas Islam Balitar. 
+

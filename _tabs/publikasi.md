@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 5
 ---
 
+Untuk Lebih Lengkap Silahkan Akses Paper Saya di <a href="">Google Scholar</a>
+
 <p>Study and Analysis of Network Topology Performance Using Wireless Distribution System Technology - Jitecs UB</p>
 <p>Sistem Pendukung Keputusan Pemilihan Personil Untuk Pengamanan Infrastruktur IT TNI Angkatan Laut Menggunakan Metode Vikor</p>
 <p>Development of Science Education Game Base on Computer Vision for Primary School Student</p>
