@@ -6,7 +6,8 @@ order: 6
 
 Reviewer
 
-<p>Jurnal x - </p>
+<p>Jurnal Antivirus - <a href="https://ejournal.unisbablitar.ac.id/index.php/antivirus/page_b">Akses Link</a></p>
+<p>Comingsoon - <a href="#">Akses Link</a></p>
 
 Pengalaman Proyek
 

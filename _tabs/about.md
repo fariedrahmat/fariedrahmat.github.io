@@ -1,24 +1,24 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
 
 <img src="https://avatars.githubusercontent.com/u/9167070?v=4" alt="" width="100" height="100" />
-<p>Pengajar dan Peneliti
-Laboratorium 
-Program Studi Teknik Informatika
+<p>Pengajar dan Peneliti<br>
+Laboratorium <br>
+Program Studi Teknik Informatika<br>
 Fakultas Teknologi Informasi – Universitas Islam Balitar</p>
 
 <p>
-Office
-Lantai 3 - Fakultas Teknologi Informasi UNISBA BALITAR
-Jl. ...
-P: +62 .... F: +62 ...
+Office<br>
+Lantai 3 - Fakultas Teknologi Informasi UNISBA BALITAR<br>
+Jl. ...<br>
+P: +62 .... F: +62 ...<br>
 E: mrhmt81@gmail.com / mohammadfariedrahmat@unisbablitar.ac.id</p>
 
 <p>
-Education
+Education<br>
 D4 Teknik Informatika - Politeknik Negeri Malang<br>
 S2 Magister Terapan Teknik Elektro - Konsentrasi Teknologi Informasi - Politeknik Negeri Malang<br>
 S3 On Process </p>
