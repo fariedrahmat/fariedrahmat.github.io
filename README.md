@@ -1,3 +1,3 @@
-# mrhmt80.github.io
+# fariedrahmat.github.io
 
-Website Dokumentasi Mohammad Faried Rahmat., S.ST., M.Tr.T
+Website Dokumentasi Mengenai Catatan Koding, Tugas Kuliah, Materi Ajar dari Mohammad Faried Rahmat., S.ST., M.Tr.T 
