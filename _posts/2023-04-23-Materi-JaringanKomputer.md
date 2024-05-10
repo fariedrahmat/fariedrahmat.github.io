@@ -18,4 +18,21 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-Selamat Malam, Berikut Materi Kuliah Jaringan Komputer Reguler Maupun Kelas Karyawan
+Berikut materi untuk matakuliah Jaringan Komputer untuk Kelas Reguler
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8. UTS
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16. UAS

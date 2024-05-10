@@ -1,5 +1,5 @@
 ---
-title: Matakuliah Multimedia Bahan Ajar
+title: Matakuliah Multimedia
 author: mrhmt
 date: 2024-5-11 11:45:00 +/-0084
 categories: [Materi]
@@ -21,6 +21,25 @@ published: true
 Last Update -
 
 Berikut materi untuk matakuliah multimedia untuk Kelas Reguler
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8. UTS
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16. UAS
+
+RPS : 
 
 Terimakasih
 Mohammad Faried Rahmat., S.ST., M.Tr.T
