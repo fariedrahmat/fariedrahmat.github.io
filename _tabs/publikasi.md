@@ -12,5 +12,6 @@ Untuk Lebih Lengkap Silahkan Akses Paper Saya di <a href="https://scholar.google
 <p>Analisis Pengujian Sistem Pengiriman Barang Menggunakan Black Box Testing</p>
 <p>IMPLEMENTASI KLASTER SERVER KOMPUTER MINI RASPBERRY PI METODE LOAD BALANCING MENGGUNAKAN ALGORITMA ROUND ROBIN - JIP Polinema</p>
 <p>Cluster implementation on mini Raspberry Pi computers using Round Robin Algorithm - IOP</p>
+
 <h3>HAKI</h3>
 <p>Sistem Informasi Keuangan Puri Bunga Estate <a href="">Link HAKI</a></p>
