@@ -20,19 +20,19 @@ published: true
 
 Last Update -
 
-Berikut materi untuk matakuliah multimedia untuk Kelas Reguler
+Berikut materi untuk matakuliah multimedia untuk Kelas Reguler TI4A dan TI4B
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Pengenalan Multimedia
+2. Prinsip Dasar Multimedia
+3. Komponen Dasar Multimedia (Terkait Text Garis, Bentuk, Ruang)
+4. Komponen Dasar Multimedia - 2 (Penerapan Pada Canva)
+5. Komponen Multimedia - Layout
+6. Komponen Multimedia - Layout (Penerapan Pada Canva)
+7. Komponen Multimedia - Penerapan Layout Pada Canva #2
 8. UTS
-9. 
-10. 
-11. 
+9. Materi Video Editing
+10. Materi Video Editing #2 (Penerapan Pada Capcut)
+11. Multimedia Interaktif Menggunakan P5JS
 12. 
 13. 
 14. 
