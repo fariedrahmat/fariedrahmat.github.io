@@ -9,7 +9,7 @@ comments: true
 math: true
 mermaid: true # diagram generation tool
 image:
-    src: https://assets.kompasiana.com/items/album/2020/02/11/illustration-technology-vector-53876-5319-5e422683097f36022e3b76d2.jpg
+    src: https://asset.kompas.com/crops/IqTI-TguyVQDJXMrrmuIzsxjtww=/0x157:621x571/750x500/data/photo/2021/04/15/6077ea809d11e.png
     width: 1000 
     height: 400
     alt: halo
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-Last Update 14 May 2024
+Last Update 17 May 2024
 
 Berikut Link Github Pengerjaan Task UAS Mengenai Integrasi Perintah Linux Menggunakan Pemograman Shell
 
