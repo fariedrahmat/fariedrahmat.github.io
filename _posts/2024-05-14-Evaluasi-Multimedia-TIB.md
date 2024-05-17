@@ -1,5 +1,5 @@
 ---
-title: Evaluasi Matakuliah Multimedia TI4A TI4B
+title: Evaluasi Matakuliah Multimedia TI4B
 author: mrhmt
 date: 2024-5-11 11:45:00 +/-0084
 categories: [Penilaian]
@@ -20,18 +20,7 @@ published: true
 
 Last Update 14 May 2024
 
-Berikut Hasil Dokumentasi Pengerjaan Tugas Multimedia TI4A
-
-kelompok 1 : @mulmet_klmpk1smtr4 - <a href=""></a>
-kelompok 2 : @second2_multimedia_ti - <a href=""></a>
-kelompok 3 : @mm_clust3r - <a href=""></a>
-Kelompok 4 : @kelompok4_multimedia_ti - <a href=""></a>
-kelompok 5 @kelompok5multimedia_ - <a href=""></a>
-kelompok 6 : @foreach.mm_6_ - <a href=""></a>
-Kelompok 7 : @kel7_multimedia_unisba - <a href=""></a>
-kelompok 8 : @ti_08_multimedia_unisba - <a href=""></a>
-Kelompok 9 : @k9.mm_unisba - <a href=""></a>
-Kelompok 10 : @kel10_multimedia_ti - <a href=""></a>
+Pada mata kuliah ini, terdapat pendekatan antara teori dan praktik mengenai: dasar multimedia, pengenalan layout, dan penerapan pada aplikasi multimedia. Selain itu, setiap pertemuan akan diberikan tantangan untuk mengetahui kemampuan setiap mahasiswa dalam memahami mata kuliah multimedia. Pada pertemuan ke-16, mahasiswa akan diajak untuk membuat proyek berdasarkan studi kasus masing-masing terkait materi multimedia yang telah diajarkan, seperti: penerapan grafis menggunakan Canva, penerapan video editing menggunakan CapCut, multimedia interaktif menggunakan P5.js, dan dasar augmented reality menggunakan Unity.
 
 Berikut Hasil Dokumentasi Pengerjaan Tugas Multimedia TI4B
 
