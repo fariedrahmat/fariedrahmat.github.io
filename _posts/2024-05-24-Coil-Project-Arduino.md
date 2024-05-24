@@ -40,6 +40,10 @@ Fitur :
 - Live Count putaran muncul pada LCD menggunakan sensor
 - Press # to reset counting
 
+Gambaran : 
+
+<img src="https://fariedrahmat.github.io/asset/project-coil-motor-arduino.jpeg"></img>
+
 # 3. Code Program
 
 ````C
