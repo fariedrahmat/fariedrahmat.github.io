@@ -1,7 +1,7 @@
 ---
 title: Evaluasi Matakuliah Multimedia TI4C
 author: mrhmt
-date: 2024-6-02 11:45:00 +/-0084
+date: 2024-6-02 05:45:00 +/-0084
 categories: [Penilaian]
 tags: [TIC, Unisba]
 toc: true # table of content
