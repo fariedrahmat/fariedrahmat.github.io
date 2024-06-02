@@ -32,12 +32,11 @@ Kelompok 4 : @multimedia_unisbablitar - <a href=""></a><br>
 
 Foto Kegiatan <br>
 
-<img src="https://fariedrahmat.github.io/asset/project-coil-motor-arduino.jpeg"></img>
+<img src="https://fariedrahmat.github.io/asset/kegiatan-mulmed-4C.jpg"></img>
 
 
 Video Hasil UAS<br>
 
-uhui coba ges
 
 Video Hasil Presentasi UAS<br>
 
