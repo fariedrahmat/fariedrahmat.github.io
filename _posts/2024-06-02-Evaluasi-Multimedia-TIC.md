@@ -22,7 +22,7 @@ Last Update 02 June 2024
 
 Pada mata kuliah ini, terdapat pendekatan antara teori dan praktik mengenai: dasar multimedia, pengenalan layout, dan penerapan pada aplikasi multimedia. Selain itu, setiap pertemuan akan diberikan tantangan untuk mengetahui kemampuan setiap mahasiswa dalam memahami mata kuliah multimedia. Pada pertemuan ke-16, mahasiswa akan diajak untuk membuat proyek berdasarkan studi kasus masing-masing terkait materi multimedia yang telah diajarkan, seperti: penerapan grafis menggunakan Canva, penerapan video editing menggunakan CapCut. Kelas ini memiliki peminatan UAS pada Video Editing. Hasil Editing Video terbaik ada pada portofolio dibawah. 
 
-Berikut Hasil Dokumentasi Pengerjaan Tugas Multimedia TI4A
+Berikut Hasil Dokumentasi Pengerjaan Tugas Multimedia TI4C
 
 kelompok 1 : @kelompok_1_multimedia - <a href=""></a><br>
 kelompok 2 : @k2multimedia_unisba.blitar - <a href=""></a><br>
