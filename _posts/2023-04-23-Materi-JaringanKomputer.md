@@ -20,19 +20,19 @@ published: true
 
 Berikut materi untuk matakuliah Jaringan Komputer untuk Kelas Reguler
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Pengenalan Jaringan Komputer
+2. OSI LAYER
+3. Media Transmisi Jaringan
+4. Pengalamatan IP dan Subnetting
+5. Routing
+6. Data Link Layer
+7. OSI Layer - Komunikasi Data & QoS
 8. UTS
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+9. Pengenalan Dasar Packet Tracer
+10. Implementasi Routing Statis Packet Tracer
+11. Implementasi Routing Statis Packet Tracer - 2
+12. Implementasi DHCP Server Packet Tracer
+13. Implementasi DHCP Server Packet Tracer - 2
+14. Socket Programming
+15. Implementasi Socket Programming - 2
 16. UAS

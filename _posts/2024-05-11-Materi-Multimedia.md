@@ -33,10 +33,10 @@ Berikut materi untuk matakuliah multimedia untuk Kelas Reguler TI4A dan TI4B
 9. Materi Video Editing
 10. Materi Video Editing #2 (Penerapan Pada Capcut)
 11. Multimedia Interaktif Menggunakan P5JS
-12. 
-13. 
-14. 
-15. 
+12. Pengenalan Augmented Reality
+13. Penerapan AR - Unity
+14. Project 
+15. Evaluasi Pengerjaan Project 
 16. UAS
 
 RPS : 
