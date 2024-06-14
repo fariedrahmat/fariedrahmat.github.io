@@ -32,7 +32,7 @@ Kelompok 4 : @multimedia_unisbablitar - <a href=""></a><br>
 
 Foto Kegiatan <br>
 
-<img src="https://fariedrahmat.github.io/asset/kegiatan-mulmed-4C.jpg"></img>
+<img src="https://fariedrahmat.github.io/asset/kegiatan-mulmed-4C.jpg">
 
 
 Video Hasil UAS<br>

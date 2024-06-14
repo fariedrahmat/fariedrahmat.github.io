@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-# 1. Halo
+# 1. Intro
 
 Ini adalah artikel tentang operasi dasar pada Python
 
