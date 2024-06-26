@@ -22,6 +22,14 @@ Last Update 14 May 2024
 
 Pada mata kuliah ini, terdapat pendekatan antara teori dan praktik mengenai: dasar multimedia, pengenalan layout, dan penerapan pada aplikasi multimedia. Selain itu, setiap pertemuan akan diberikan tantangan untuk mengetahui kemampuan setiap mahasiswa dalam memahami mata kuliah multimedia. Pada pertemuan ke-16, mahasiswa akan diajak untuk membuat proyek berdasarkan studi kasus masing-masing terkait materi multimedia yang telah diajarkan, seperti: penerapan grafis menggunakan Canva, penerapan video editing menggunakan CapCut, multimedia interaktif menggunakan P5.js, dan dasar augmented reality menggunakan Unity.
 
+Foto Kegiatan <br>
+
+<img src="https://fariedrahmat.github.io/asset/TI4b-1.jpeg">
+
+<img src="https://fariedrahmat.github.io/asset/TI4b-2.jpeg">
+
+<img src="https://fariedrahmat.github.io/asset/TI4b-3.jpeg"> <br> 
+
 Berikut Hasil Dokumentasi Pengerjaan Tugas Multimedia TI4B
 
 Kelompok 1 : multiversestudio.uib
@@ -47,9 +55,10 @@ https://www.instagram.com/hokidoki.co.id?igsh=dnVydGkyb3EzMHRq
 Kelompok 8 : yrrg. team
 https://www.instagram.com/yrrg.team?igsh=enc4bWEwZnFvZ3Qy
 
-Foto Kegiatan <br>
+
 
 
 
 Terimakasih<br>
 Mohammad Faried Rahmat., S.ST., M.Tr.T
+
