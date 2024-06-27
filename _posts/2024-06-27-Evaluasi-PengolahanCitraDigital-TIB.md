@@ -24,9 +24,9 @@ Pada mata kuliah ini, saya mendekatkan kolaborasi teori dan praktek mengenai Ilm
 
 Foto Kegiatan <br>
 
-<img src="https://fariedrahmat.github.io/asset/TI6B">
+<img src="https://fariedrahmat.github.io/asset/TI6B.jpeg">
 
-<img src="https://fariedrahmat.github.io/asset/TI6B-2">
+<img src="https://fariedrahmat.github.io/asset/TI6B-2.jpeg">
 
 
 Terimakasih<br>
