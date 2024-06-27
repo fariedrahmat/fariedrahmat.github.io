@@ -26,7 +26,6 @@ Foto Kegiatan <br>
 
 <img src="https://fariedrahmat.github.io/asset/TI6B.jpeg">
 
-<img src="https://fariedrahmat.github.io/asset/TI6B-2.jpeg">
 
 
 Terimakasih<br>
